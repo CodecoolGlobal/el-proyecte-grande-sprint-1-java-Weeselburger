@@ -1,0 +1,25 @@
+# React build files
+/build
+/node_modules
+
+# Java build files
+/target
+/.gradle
+/.idea
+
+# PostgreSQL database files
+*.sql
+*.dump
+*.log
+/pgdata
+
+# Log files
+*.log
+
+# IDE files
+/.vscode
+/.idea
+
+# OS-specific files
+.DS_Store
+Thumbs.db
